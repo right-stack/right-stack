@@ -1,4 +1,4 @@
-- 👋 ##Hi, I’m Olamilekan W. Raheem (Call me Lakes)
+## Hi, I’m Olamilekan W. Raheem (Call me Lakes) 👋 
 
 - 👀 I’m interested in Machine Learning/AI, Embedded Systems, Mobile Development
 - 🌱 I’m currently learning NLP, Reinforcement Learning and React
@@ -6,8 +6,8 @@
 - 🥅 2021 Goals: NLP and Reinforcement Learning (Implementations and Papers)
 
 - 📫 How to reach me ...
-[twitter]: https://twitter.com/lekan_raheem_
-[linkedin]: https://linkedin.com/in/owr/
+[Twitter](https://twitter.com/lekan_raheem_ "My Twitter")   [LinkedIn](https://linkedin.com/in/owr/ "My LinkedIn")
+
 
 <!---
 confirmdev/confirmdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
