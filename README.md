@@ -1,4 +1,4 @@
-## Hi, I’m Olamilekan W. Raheem (Call me Lakes) 👋 
+## Hi there, Nice to meet you 👋 
 
 - 👀 I’m interested in Machine Learning/AI, Embedded Systems, Mobile Development
 - 🌱 I’m currently learning NLP, Reinforcement Learning and React
