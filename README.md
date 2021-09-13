@@ -5,8 +5,8 @@
 - 👯 I’m looking to collaborate on Open Source Projects, Solutions to Global and African Problems
 - 🥅 2021 Goals: NLP and Deep Reinforcement Learning (Implementations and Papers)
 
-- 📫 Reach me ...
-[Twitter](https://twitter.com/lekan_raheem_ "My Twitter")   [LinkedIn](https://linkedin.com/in/owr/ "My LinkedIn")
+- 📫 Reach me on &nbsp;
+[Twitter](https://twitter.com/lekan_raheem_ "My Twitter")  &nbsp;  [LinkedIn](https://linkedin.com/in/owr/ "My LinkedIn")
 
 
 <!---
