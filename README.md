@@ -1,6 +1,6 @@
 ## Hi there, Nice to meet you 👋 
 
-- 👀 I’m interested in Machine Learning/AI, Embedded Systems, Mobile Development
+- 👀 I’m interested in Machine Learning/Deep Learning, Mobile Development and Integrated Systems
 - 🌱 I’m currently learning NLP and Deep Reinforcement Learning
 - 👯 I’m looking to collaborate on Open Source Projects, Solutions to Global and African Problems
 - 🥅 2022 Goals: NLP, ASR and Speech Processing, and Reinforcement Learning (Implementations and Papers)
