@@ -1,12 +1,12 @@
 ## Hi there, Nice to meet you 👋 
 
 - 👀 I’m interested in Machine Learning/Deep Learning, Mobile Development and Integrated Systems
-- 🌱 I’m currently learning NLP and Deep Reinforcement Learning
+- 🌱 I’m currently learning NLP and Speech Processing
 - 👯 I’m looking to collaborate on Open Source Projects, Solutions to Global and African Problems
-- 🥅 2022 Goals: NLP, ASR and Speech Processing, and Reinforcement Learning (Implementations and Papers)
+- 🥅 2022 Goals: Speech Recognition, Conversational AI and Deep Reinforcement Learning
 
 - 📫 Reach me on &nbsp;
-[Twitter](https://twitter.com/lekan_raheem_ "My Twitter")  &nbsp;  [LinkedIn](https://linkedin.com/in/owr/ "My LinkedIn")
+[Twitter](https://twitter.com/LekanRaheem_ "My Twitter")  &nbsp;  [LinkedIn](https://linkedin.com/in/owr/ "My LinkedIn")
 
 
 <!---
