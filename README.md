@@ -1,7 +1,6 @@
 ## Hi there, Nice to meet you 👋 
 
-- 👀 I’m interested in Classical Machine Learning, Deep Learning, Natural Language Processing, and Speech Processing
-- 🌱 Actively developing skills with Python, Machine Learning/Deep Learning and Natural Language Processing
+- 👀 I’m interested in and actively developing 🌱 skills with Python, Classical Machine Learning, Deep Learning, and Natural Language Processing.
 - 👯 I’m looking to collaborate on Open Source Projects and build impactful projects
 
 
